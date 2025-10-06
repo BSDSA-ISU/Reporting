@@ -1,5 +1,7 @@
 # Report
 
+## Paragraph 1 – The Human Need for Communication
+
 Since the beginning of time, humans have always needed to communicate and exchange information. This is because people naturally want to connect with others, belong to a community, give and receive instructions, and share feelings or ideas. In the past, however, this was difficult because communication took a long time due to distance, time, and location. Messages could take days, weeks, or even months before reaching their destination.
 
 👉 Explanation:
